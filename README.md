@@ -6,12 +6,18 @@
 </p>
 
 
-Un pequeño prototipo de las mecánicas de celeste.
+Un pequeño prototipo recreando algunas de las mecánicas del videojuego "Celeste"
+
+### Gameplay
+
+- Q, Right_click : Wall grab
+- Left_Shift, Left_Click : Dash
+- A_W_S_D : Movement
 
 
 ### Prerequisites
 
--  Unity ver. 2019.4.34 o mayor
+-  Unity ver. 2019.4.34f1 o mayor.
 
 
 ## Assets
