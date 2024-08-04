@@ -1,8 +1,9 @@
+# Celeste Mechanics
+
 <p align="center">
     <img width="400px" src="Game4.gif">    
 </p>
 
-# Celeste Mechanics
 
 Un pequeño prototipo de las mecánicas de celeste.
 
