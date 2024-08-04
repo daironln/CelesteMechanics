@@ -13,6 +13,7 @@ Un pequeño prototipo recreando algunas de las mecánicas del videojuego "Celest
 - Q, Right_click : Wall grab
 - Left_Shift, Left_Click : Dash
 - A_W_S_D : Movement
+- Space : Jump
 
 
 ### Prerequisites
