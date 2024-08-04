@@ -17,7 +17,7 @@ Un pequeño prototipo recreando algunas de las mecánicas del videojuego "Celest
 
 ### Prerequisites
 
--  Unity ver. 2019.4.34f1 o mayor.
+-  Unity ver. 2022.3.24f1 o mayor.
 
 
 ## Assets
